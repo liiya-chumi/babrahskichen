@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /gallary.html
+
+Sitemap: https://babrahskichen.netlify.app/sitemap.xml
